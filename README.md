@@ -8,4 +8,4 @@ The 3 R code files are demonstrations of the model with;
 3) NVDI index.
 
 The python file demonstrates reproducibility of the above R code in a python environment and plots the feature 
-importance scores, etc to demonstrate that. 
+importance scores. 
