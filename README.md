@@ -1,4 +1,5 @@
-# uniaalborg
+# Using GEDI and Sentinel Imagery to investigate mangrove heights.
+
 A repository examining the use of packages in python and R to investigate mangrove heights. 
 
 The 3 R code files are 
